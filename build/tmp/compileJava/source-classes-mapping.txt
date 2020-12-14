@@ -1,0 +1,8 @@
+entities/Mail.java
+ entities.Mail
+config/AppConfiguration.java
+ config.AppConfiguration
+config/AppInitializer.java
+ config.AppInitializer
+controllers/MailController.java
+ controllers.MailController
